@@ -44,7 +44,7 @@ button{
     color: #e9edee;
 }
 
-@media only (max-width:217px){
+@media only screen and (max-width: 600px){
     body{
         display: flex;
         justify-content: center;
